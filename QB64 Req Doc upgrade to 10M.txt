@@ -1,0 +1,7 @@
+The objective of this request is to provide Ethernet circuit with 20Mb Access 10Mb Port with Copper –handoff at site QB64 and provide engineering support remotely during the implementation. Also to decommission existing 3Mb (2xT1's) Access 3Mb Port.
+
+Proposed Pricing Option #1 (20Mb Access, 10Mb Port):
+
+20Mb Access - $636.83 with one-time of $970.17
+10Mb Port - $525.60
+Total - $1,162.43
